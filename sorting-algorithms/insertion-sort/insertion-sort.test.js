@@ -1,4 +1,4 @@
 const insertionSort = require("./insertion-sort");
-const testCases = require("../common-test/common-test-one");
+const testCases = require("../common-tests/common-test-one");
 
 testCases(insertionSort);
