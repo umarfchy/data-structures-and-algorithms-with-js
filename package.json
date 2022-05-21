@@ -1,0 +1,18 @@
+{
+    "name": "data-structure-and-algorithms-with",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "watch-test": "watch 'npm run test'"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^8.15.0",
+        "jest": "^28.1.0",
+        "watch": "^1.0.2"
+    }
+}
